@@ -1,0 +1,5 @@
+# frozen_string_literal: true
+source 'https://supermarket.chef.io'
+
+metadata
+#cookbook 'simple_iptables', '~> 0.8.0'
